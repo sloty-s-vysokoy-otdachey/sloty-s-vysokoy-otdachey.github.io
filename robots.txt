@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: sloty-s-vysokoy-otdachey.github.io
+Sitemap: https://sloty-s-vysokoy-otdachey.github.io/sitemap.xml
